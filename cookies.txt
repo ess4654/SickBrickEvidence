@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	204=HDexeonImcWs7CN6ry8HIWdFlFbas_Gu4q7mGRRhzqkNK_Cd8ZT7CA_Ate-jy6wYvu4tGP7uiUWzwaQ3yW2Yg83oPjeF-WyWrJCJNm9n2Xn_A4jOJi920Toh1XqpeYfNOm0erZdnAZx4BN-huIMrOv2rgcfjhA3hnuLcaPx5sEM
+www.misfitvillage.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
