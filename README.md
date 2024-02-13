@@ -1,0 +1,1 @@
+This repository was created to maintain a permanent record of Kyle Polulak (Fox Council) and Ron McDowell's criminal activities in 2017 when the partners in crime stole video game code from a man in Croatia. The original misfitvillage.com website has since been taken offline, and so I maintain this as a backup of the blog post in its unaltered form
